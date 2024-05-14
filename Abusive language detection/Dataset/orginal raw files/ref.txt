@@ -1,0 +1,6 @@
+1,2, slang : https://github.com/rezacsedu/Bengali-Hate-Speech-Dataset
+3: https://www.kaggle.com/datasets/naurosromim/bengali-hate-speech-dataset
+4,4 conf : https://data.mendeley.com/datasets/9pz8ssmc49/2
+5: https://www.kaggle.com/datasets/naurosromim/bdshs
+6:https://github.com/aimansnigdha/Bangla-Abusive-Comment-Dataset/tree/master
+7: https://data.mendeley.com/datasets/9xjx8twk8p/1
