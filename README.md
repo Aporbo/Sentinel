@@ -1,7 +1,7 @@
 # Sentinel
 Sentinel is an innovative framework designed to detect and mitigate online misconduct by harnessing the interconnected nature of digital interactions. Utilizing cutting-edge natural language processing (NLP), machine learning, and graph analysis techniques, Sentinel offers a comprehensive and proactive approach to combating harmful behaviors such as bots, spam, cyberbullying, and abusive language.
 
-##Key Features
+## Key Features
 * Real-time Monitoring: Continuous surveillance of online platforms for immediate detection and reporting of misconduct.
 * Advanced Machine Learning: State-of-the-art models accurately identify and categorize various forms of online abuse.
 * Graph-based Analysis: Analyzes the interconnectedness of online activities to detect coordinated and complex misconduct patterns.
